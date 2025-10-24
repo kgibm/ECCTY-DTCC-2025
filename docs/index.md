@@ -24,6 +24,11 @@ Dallas, Texas
 [TODO](TODO)
 
 
+**Feedback Survey**
+
+[Feedback Survey](https://your.feedback.ibm.com/jfe/form/SV_eFnIMdn1h1NoANE)
+
+
 **Hands on Activities**
 
 
