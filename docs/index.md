@@ -21,7 +21,7 @@ Dallas, Texas
 
 **Agenda**
 
-[TODO](TODO)
+[Agenda](resources/DTCC%20-%20EC%20Comes%20to%20You%20Seminar%20-%20October%2029th%20&%2030th%202025%20Agenda%20Only.pdf)
 
 
 **Feedback Survey**
